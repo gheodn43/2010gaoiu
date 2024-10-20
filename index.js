@@ -1,11 +1,11 @@
 const anhtuan = [
-    'Imgs/bantim1.png',
-    'Imgs/bantim2.png',
-    'Imgs/bantim3.png'
+    'Imgs/bantim1.PNG',
+    'Imgs/bantim2.PNG',
+    'Imgs/bantim3.PNG'
 ];
 const huong = [
-    'Imgs/huong1.png',
-    'Imgs/huong2.png'
+    'Imgs/huong1.PNG',
+    'Imgs/huong2.PNG'
 ];
 
 let currentIndexTuan = 0;
