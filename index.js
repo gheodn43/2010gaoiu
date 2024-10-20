@@ -25,7 +25,7 @@ function animateHuong() {
 function createHeart() {
     const heartContainer = document.querySelector('.heart-container');
     const heart = document.createElement('img');
-    heart.src = 'Imgs/traitim.png';
+    heart.src = 'Imgs/traitim.PNG';
     heart.className = 'floating-heart';
 
     // Random size between 50px and 70px
