@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+.character{
+    height: 150px;
+}
+.floating-heart {
+    position: absolute;
+    bottom: 0;
+    transition: transform 5s linear;
+}
+.dialog-box {
+    background-color: pink;
+    border: 2px solid #ff69b4; /* Màu viền hồng đậm hơn */
+    border-radius: 8px;
+    max-width: 300px;
+    margin: 0 auto;
+}
